@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/geeloov/portfolio/static/css/main.c1ea095c.css",
-    "main.js": "/geeloov/portfolio/static/js/main.5f32627a.js",
-    "static/js/787.bca9f1db.chunk.js": "/geeloov/portfolio/static/js/787.bca9f1db.chunk.js",
+    "main.js": "/geeloov/portfolio/static/js/main.2fdcd403.js",
+    "static/js/787.b008a081.chunk.js": "/geeloov/portfolio/static/js/787.b008a081.chunk.js",
     "index.html": "/geeloov/portfolio/index.html",
     "main.c1ea095c.css.map": "/geeloov/portfolio/static/css/main.c1ea095c.css.map",
-    "main.5f32627a.js.map": "/geeloov/portfolio/static/js/main.5f32627a.js.map",
-    "787.bca9f1db.chunk.js.map": "/geeloov/portfolio/static/js/787.bca9f1db.chunk.js.map"
+    "main.2fdcd403.js.map": "/geeloov/portfolio/static/js/main.2fdcd403.js.map",
+    "787.b008a081.chunk.js.map": "/geeloov/portfolio/static/js/787.b008a081.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c1ea095c.css",
-    "static/js/main.5f32627a.js"
+    "static/js/main.2fdcd403.js"
   ]
 }
